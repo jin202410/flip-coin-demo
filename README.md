@@ -1,6 +1,7 @@
 # web3-app-near
 
 ### FlipNEAR - Coin Flip Game on NEAR Protocol
+https://inquisitive-pothos-70adc5.netlify.app/
 
 ### 应用概念：
 FlipNEAR是一个基于NEAR区块链的去中心化硬币翻转游戏，用户可以下注并预测硬币的正反面，所有交易都在链上进行，确保公平透明。
